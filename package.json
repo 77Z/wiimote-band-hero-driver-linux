@@ -1,0 +1,22 @@
+{
+	"name": "wiimote-band-hero-driver-linux",
+	"version": "0.1.0",
+	"description": "Wiimote Band Hero Driver Linux",
+	"main": "driver.js",
+	"scripts": {
+		"start": "node driver.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/77Z/wiimote-band-hero-driver-linux.git"
+	},
+	"author": "Vince R",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/77Z/wiimote-band-hero-driver-linux/issues"
+	},
+	"homepage": "https://github.com/77Z/wiimote-band-hero-driver-linux#readme",
+	"dependencies": {
+		"colors": "^1.4.0"
+	}
+}
